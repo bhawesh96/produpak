@@ -10,7 +10,7 @@ jQuery(document).ready(function($) {
                     phone: $('#phone').val(),
                     message: $('#message').val(),
                     service: $('#service').val(),
-                    to_email: 'bhansalibhawesh85@gmail.com'
+                    to_email: 'shruti.khetan@outlook.com'
                   }),
             dataType: 'json',
             contentType: 'application/json; charset=utf-8',
