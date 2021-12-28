@@ -14019,7 +14019,7 @@ a.text-dark:focus {
 
 :root {
   --primary-color: #000;
-  --secondary-color: #00ab84; /*#1fa12e;*/
+  --secondary-color: #00ad74; /*#1fa12e;*/
   --font-color: #696969;
   --bg-color: #fff;
   --heading-color:#111;
@@ -14224,6 +14224,9 @@ p.white {
 @media (min-width: 1280px) {
   .container {
     max-width: 1200px;
+  }
+  header > div.container {
+    max-width: 1350px;
   }
 }
 
@@ -14538,7 +14541,7 @@ header {
 }
 
 .navbar .navbar-brand img {
-  max-width: 240px;
+  max-width: 300px;
   transition: all 0.5s ease;
 }
 
@@ -14751,7 +14754,7 @@ nav ul li a:hover {
   }
 
   .navbar .navbar-brand img {
-    max-width: 170px;
+    max-width: 210px;
   }
 
   .navbar-toggler {
@@ -15012,11 +15015,12 @@ a.view:hover {
 }
 .banhny-w3grids {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  /*grid-template-columns: 1fr 1fr;*/
   grid-gap: 20px;
   position: absolute;
   right: 30px;
-  width: 40%;
+  /*width: 40%;*/
+  width: 25%;
   bottom: 30px;
 }
 .banhny-w3grids-1 {
