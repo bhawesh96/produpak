@@ -15900,10 +15900,18 @@ a.read span {
   display: inline-block;
 }
 
+.w3l-services1 ul.cont-4 li p {
+  margin-left: 43px;
+  margin-top: 0px;
+  font-size: 15px;
+  line-height: 20px;
+  color: var(--font-color);
+}
+
 .w3l-services1 .cwp4-text ul li {
   font-style: normal;
   font-weight: normal;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 26px;
   color: var(--heading-color);
   margin: 15px 0;
